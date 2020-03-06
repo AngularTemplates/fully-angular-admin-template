@@ -27,7 +27,8 @@ We are so confident that Fully will help you with your project, that we offer a 
 # Features & Components
 > This Angular Bootstrap template includes a wide list of the components you might need when building your project.
 
-| Dashboard |
+### Dashboard
+|  |
 | :----: |
 | CRM admin panel       |
 | Ecommerce admin panel |
@@ -38,8 +39,10 @@ We are so confident that Fully will help you with your project, that we offer a 
 | Cards |
 | Lists |
 | Tasks tracker |
+|  |
 
-| Forms |
+### Forms
+|  |
 | :----: |
 | Controls & Validations  |
 | Angular Material Forms  |
@@ -48,8 +51,10 @@ We are so confident that Fully will help you with your project, that we offer a 
 | Custom Angular Validators |
 | Different Form Layouts |
 | Wizard or Stepper **[coming soon]** |
+|  |
 
-| Tables |
+### Tables
+|  |
 | :----: |
 | Simple tables       |
 | Advanced tables     |
@@ -58,55 +63,74 @@ We are so confident that Fully will help you with your project, that we offer a 
 | Filters |
 | Order |
 | Pagination |
+|  |
 
-| Charts |
+### Charts
+|  |
 | :----: |
 | Lots of different examples |
 | Echarts |
 | Chartsjs |
 | Ngx charts |
 | Responsive charts |
+|  |
 
-| Utilities |
+### Utilities
+|  |
 | :----: |
 | Modals |
 | Alerts or Dialogs |
 | Notifications |
 | Image & File uploader |
 | Auto Complete |
+|  |
 
-| UI Components |
+### UI Components
+|  |
 | :----: |
 | Lists |
 | Cards |
 | Tabsets **[coming soon]** |
 | Carousel **[coming soon]** |
+|  |
 
-| Authentication |
+### Authentication
+|  |
 | :----: |
 | Login (page and modal) |
 | Sign up (page and modal) |
 | Forgot password (page and modal) |
 | Logged user in top nav bar |
-
-| Navigation Layouts |
-| :----: |
 |  |
 
-| Side Menu |
+### Navigation Layouts
+|  |
 | :----: |
 |  |
-
-| Top Nav Bar |
-| :----: |
 |  |
 
-| Theming |
+### Side Menu
+|  |
 | :----: |
 |  |
+|  |
 
-| App Shell |
+### Top Nav Bar
+|  |
 | :----: |
+|  |
+|  |
+
+### Theming
+|  |
+| :----: |
+|  |
+|  |
+
+### App Shell
+|  |
+| :----: |
+|  |
 |  |
 
 # Need help?
