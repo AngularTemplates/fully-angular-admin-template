@@ -8,7 +8,7 @@ Built around modularity and following Angular best practices, you can be confide
 ## [Try the Demo](https://angular-templates.io/product/fully-angular-admin-template) 
 
 <div>
-<img src="https://angular-templates.s3-us-west-2.amazonaws.com/fully-angular-admin-template/fully-angular-admin-template-cover.jpg">
+<img src="https://angular-templates.s3-us-west-2.amazonaws.com/fully-angular-admin-template/fully-angular-admin-template-showcase.jpg">
 </div>
 
 ## Future proof
@@ -24,3 +24,7 @@ We plan to keep adding themed widgets in order to fulfill our mission to create 
 ## Money back guarantee
 We are so confident that Fully will help you with your project, that we offer a full refund if it doesn't satisfy your needs.
 
+
+
+# Need help?
+[Post an issue](https://github.com/AngularTemplates/fully-angular-admin-template/issues/new) and we will answer it ASAP.
