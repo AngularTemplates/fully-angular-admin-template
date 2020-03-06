@@ -106,32 +106,57 @@ We are so confident that Fully will help you with your project, that we offer a 
 ### Navigation Layouts
 |  |
 | :----: |
-|  |
+| 4 different app layouts |
+| Mobile layout for small devices |
+| Dynamic responsive transition between layouts |
 |  |
 
 ### Side Menu
 |  |
 | :----: |
-|  |
+| Condensed and expanded options |
+| Different states: push, over, side |
+| Right and left side menus |
 |  |
 
 ### Top Nav Bar
 |  |
 | :----: |
-|  |
+| Notifications |
+| Theme configuration menu |
+| Right side alt menu |
+| Search Bar |
 |  |
 
 ### Theming
 |  |
 | :----: |
-|  |
+| Configurable color palette |
+| Theme chooser |
 |  |
 
 ### App Shell
 |  |
 | :----: |
+| Shell components included |
+| Image Shell |
+| Text Shell |
+| Aspect ratio component |
 |  |
-|  |
+
+# Angular FTW
+> Planning on adding a mobile app or a companion site to your Admin Dashboard?
+
+We got your back, both [Ionic 5 Full Starter App](https://ionicthemes.com/product/ionic5-full-starter-app-pro-version) and [Angular Site Template](https://angular-templates.io/product/angular-site-template) offer a collection of high quality mobile and web UI components and features to speed up the development of your next project.
+
+<div>
+<img src="https://angular-templates.s3-us-west-2.amazonaws.com/deluxe-angular-bundle/deluxe-angular-bundle-showcase-35.jpg">
+</div>
+
+> All of our products are built by the same team of designers and engineers following Angular best practices to ensure maximum compatibility and coherence between code bases.
+
+## [Get the bundle](https://angular-templates.io/product/deluxe-angular-bundle) 
+
 
 # Need help?
 [Post an issue](https://github.com/AngularTemplates/fully-angular-admin-template/issues/new) and we will answer it ASAP.
