@@ -27,31 +27,87 @@ We are so confident that Fully will help you with your project, that we offer a 
 # Features & Components
 > This Angular Bootstrap template includes a wide list of the components you might need when building your project.
 
-![alt text](https://angular-templates.io/assets/imgs/home/components/Iconos_dashboard.png "Dashboard fetures & components")
 | Dashboard |
 | :----: |
 | CRM admin panel       |
 | Ecommerce admin panel |
 | Sparklines            |
 | Analytics             |
+| Lots of different charts |
+| Tables |
+| Cards |
+| Lists |
+| Tasks tracker |
 
-![alt text](https://angular-templates.io/assets/imgs/home/components/Iconos_forms.png "Forms fetures & components")
 | Forms |
 | :----: |
 | Controls & Validations  |
 | Angular Material Forms  |
 | Bootstrap Forms         |
-|  |
+| Extended Controls |
+| Custom Angular Validators |
+| Different Form Layouts |
+| Wizard or Stepper **[coming soon]** |
 
-![alt text](https://angular-templates.io/assets/imgs/home/components/Iconos_Tables.png "Tables fetures & components")
 | Tables |
 | :----: |
 | Simple tables       |
 | Advanced tables     |
 | Custom item layouts |
+| Live search |
+| Filters |
+| Order |
+| Pagination |
+
+| Charts |
+| :----: |
+| Lots of different examples |
+| Echarts |
+| Chartsjs |
+| Ngx charts |
+| Responsive charts |
+
+| Utilities |
+| :----: |
+| Modals |
+| Alerts or Dialogs |
+| Notifications |
+| Image & File uploader |
+| Auto Complete |
+
+| UI Components |
+| :----: |
+| Lists |
+| Cards |
+| Tabsets **[coming soon]** |
+| Carousel **[coming soon]** |
+
+| Authentication |
+| :----: |
+| Login (page and modal) |
+| Sign up (page and modal) |
+| Forgot password (page and modal) |
+| Logged user in top nav bar |
+
+| Navigation Layouts |
+| :----: |
 |  |
 
-| Charts | Utilities | UI Components | Authentication |
+| Side Menu |
+| :----: |
+|  |
+
+| Top Nav Bar |
+| :----: |
+|  |
+
+| Theming |
+| :----: |
+|  |
+
+| App Shell |
+| :----: |
+|  |
 
 # Need help?
 [Post an issue](https://github.com/AngularTemplates/fully-angular-admin-template/issues/new) and we will answer it ASAP.
