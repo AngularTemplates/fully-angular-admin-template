@@ -24,7 +24,34 @@ We plan to keep adding themed widgets in order to fulfill our mission to create 
 ## Money back guarantee
 We are so confident that Fully will help you with your project, that we offer a full refund if it doesn't satisfy your needs.
 
+# Features & Components
+> This Angular Bootstrap template includes a wide list of the components you might need when building your project.
 
+![alt text](https://angular-templates.io/assets/imgs/home/components/Iconos_dashboard.png "Dashboard fetures & components")
+| Dashboard |
+| :----: |
+| CRM admin panel       |
+| Ecommerce admin panel |
+| Sparklines            |
+| Analytics             |
+
+![alt text](https://angular-templates.io/assets/imgs/home/components/Iconos_forms.png "Forms fetures & components")
+| Forms |
+| :----: |
+| Controls & Validations  |
+| Angular Material Forms  |
+| Bootstrap Forms         |
+|  |
+
+![alt text](https://angular-templates.io/assets/imgs/home/components/Iconos_Tables.png "Tables fetures & components")
+| Tables |
+| :----: |
+| Simple tables       |
+| Advanced tables     |
+| Custom item layouts |
+|  |
+
+| Charts | Utilities | UI Components | Authentication |
 
 # Need help?
 [Post an issue](https://github.com/AngularTemplates/fully-angular-admin-template/issues/new) and we will answer it ASAP.
