@@ -1,7 +1,10 @@
 # Fully - Angular Admin Template
+
+Fully - Angular Admin Dashboard template is a collection of common features and use cases, UI screens and components that you can use as a whole like a starter template for your next project or cherry pick the specific features and components you want to add to your existing Angular project.
+
 Fully is a premium Material Bootstrap 4 Admin with a fresh and professional design.
 
-Built around modularity and following Angular best practices, you can be confident it will be easy to integrate in your Angular 8+ project.
+Built around modularity and following Angular best practices, you can be confident it will be easy to integrate in your Angular 10+ project.
 
 > This template is built 100% with Angular to ensure no bloated dependencies.
 
